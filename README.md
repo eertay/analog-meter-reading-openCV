@@ -1,10 +1,10 @@
 # OCR / Analog Meter Reading Project 
 
-AMR (automatic meter reading) project for analog meters, built with openCV+Python using basic OCR and image processing knowledge.
+An AMR (automatic meter reading) project for reading analog meters, built with openCV+Python using basic OCR and image processing techniques.
 
 ## **OCR** 
 
-Conversion of images typed, handwritten or printed text into machine-encoded text. Widely used form is the data entry from printed papers. Aim is to digitize these texts, so that they can be electronically edited for AI, computer vision or pattern recognition research.
+OCR engines convert images containing typed, handwritten or printed text into machine-encoded text. Their most common use are PDF scanners, allowing to read text from printed papers. The aim is to digitise these texts, so that they can be electronically edited for AI, computer vision or pattern recognition problems and can be further used for research.
 
 **for more info:** https://github.com/kba/awesome-ocr
 
@@ -19,7 +19,7 @@ Conversion of images typed, handwritten or printed text into machine-encoded tex
 
 ## **AMR**
 
-AMR allows the employees of the service company (electricity/gas/water) or preferably, the consumers themselves to capture meter images using a mobile device, which is cheaper and more feasible than manual on-site reading, and easier to deploy - in the short/medium term - than the replacement of old meters.
+AMR is a sub-section of OCR engines, built primarily to read electricity, gas and water meters. The AMR technologies allow energy companies or their customers to capture meter images using a mobile device. This practice is cheaper and more feasible than manual on-site reading, and easier to deploy - in the short/medium term - than the replacement of old meters.
 
 ### **Two main categories:**
 
